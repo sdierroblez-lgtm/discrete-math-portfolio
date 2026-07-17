@@ -4,19 +4,19 @@ Bienvenido/a a la segunda fase de la Unidad 3. En esta sección me enfoco en la 
 
 ---
 
-## ✍️ 1. Taller Colaborativo: Trazas Manuales
+##  1. Taller Colaborativo: Trazas Manuales
 Ejecución y desarrollo manual de los algoritmos fundamentales de recorrido (**BFS y DFS**) sobre grafos no dirigidos, y del algoritmo de **Dijkstra** sobre grafos ponderados. En este análisis se documenta el comportamiento interno de las estructuras de memoria (colas y pilas), el orden de descubrimiento y las distancias acumuladas.
 
-> **📂 Archivo de Evidencia Interactiva:**
+> ** Archivo de Evidencia Interactiva:**
 > 
 > 👉 [📂 Ver Trazas Manuales (BFS, DFS, Dijkstra)](Evidencias/trazas_manuales.md)
 
 ---
 
-## 💻 2. Validación y Modelado Computacional
+##  2. Validación y Modelado Computacional
 Réplica de los grafos ponderados en software especializado (*Graph Online / Gephi*) para ejecutar de forma computacional el Algoritmo de Dijkstra. Esta sección incluye la comparativa directa entre los resultados calculados a mano y las soluciones óptimas arrojadas por la máquina.
 
-> **📂 Archivo de Evidencia Interactiva:**
+> ** Archivo de Evidencia Interactiva:**
 > 
 > 👉 [📂 Ver Simulación y Tabla Comparativa](Evidencias/validacion_software.md)
 
