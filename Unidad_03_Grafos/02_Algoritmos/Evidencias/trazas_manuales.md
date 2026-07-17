@@ -4,7 +4,7 @@ En esta sección se detalla el análisis iterativo paso a paso de los algoritmos
 
 ---
 
-## 🌊 A. Búsqueda en Anchura (BFS)
+##  A. Búsqueda en Anchura (BFS)
 * **Grafo Utilizado:** No Dirigido (Nodos: A, B, C, D, E, F).
 * **Estructura de Memoria:** Cola (FIFO - *First In, First Out*).
 * **Nodo Inicial:** A.
@@ -15,7 +15,7 @@ En esta sección se detalla el análisis iterativo paso a paso de los algoritmos
 
 ---
 
-## 🕳️ B. Búsqueda en Profundidad (DFS)
+##  B. Búsqueda en Profundidad (DFS)
 * **Estructura de Memoria:** Pila (LIFO - *Last In, First Out*).
 * **Nodo Inicial:** A.
 
@@ -25,7 +25,7 @@ En esta sección se detalla el análisis iterativo paso a paso de los algoritmos
 
 ---
 
-## 🛣️ C. Algoritmo de Dijkstra (Caminos Mínimos)
+##  C. Algoritmo de Dijkstra (Caminos Mínimos)
 * **Grafo Utilizado:** Ponderado No Dirigido.
 * **Estructura:** Tabla de distancias y marcas de control para la relajación de aristas.
 
