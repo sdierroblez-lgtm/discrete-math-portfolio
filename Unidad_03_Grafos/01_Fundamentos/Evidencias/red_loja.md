@@ -10,7 +10,7 @@ El objetivo fue representar la topografía vial mediante un grafo ponderado y no
 
 ---
 
-### 📊 Propiedades Estructurales Analizadas:
+###  Propiedades Estructurales Analizadas:
 *   **Vértices (Nodos):** Representan puntos críticos de la urbe (UNL, Terminal, Centro de Loja, Hospital, Parque Jípira, Estadio, Mercado).
 *   **Aristas (Conexiones):** Corredores viales principales que conectan dichos puntos.
 *   **Pesos:** Distancias o tiempos estimados entre cada locación.
