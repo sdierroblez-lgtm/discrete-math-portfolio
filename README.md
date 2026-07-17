@@ -1,4 +1,4 @@
-# 🧮 Portafolio Integrador de Matemáticas Discretas
+#  Portafolio Integrador de Matemáticas Discretas
 
 ¡Bienvenido/a a mi portafolio digital! En este espacio documento mi progreso, desarrollo de competencias lógicas y la resolución de problemas aplicados a la computación a lo largo del ciclo.
 
@@ -8,7 +8,7 @@ Para optimizar recursos y reflejar mi evolución tecnológica, he estructurado e
 
 ---
 
-## 📁 Unidad 1: Lógica Matemática (Google Drive)
+##  Unidad 1: Lógica Matemática (Google Drive)
 *Desarrollo de habilidades de razonamiento lógico para solucionar problemas ligados a la ingeniería.*
 
 *   **Fase 1:** Proposiciones Lógicas y Conectores Fundamentales.
@@ -21,7 +21,7 @@ Para optimizar recursos y reflejar mi evolución tecnológica, he estructurado e
 
 ---
 
-## 📁 Unidad 2: Álgebra de Boole (Google Drive)
+##  Unidad 2: Álgebra de Boole (Google Drive)
 *Utilización eficiente de los principios de la lógica matemática para la simplificación y optimización de funciones lógicas.*
 
 *   **Fase 1:** Fundamentos del Álgebra de Boole y Operaciones Básicas.
@@ -34,7 +34,7 @@ Para optimizar recursos y reflejar mi evolución tecnológica, he estructurado e
 
 ---
 
-## 💻 Unidad 3: Grafos y Árboles (Desarrollo en GitHub)
+##  Unidad 3: Grafos y Árboles (Desarrollo en GitHub)
 *Aplicación de análisis combinatorio y estructuras de datos no lineales para resolver problemas reales de optimización de redes.*
 
 A continuación se listan las fases de esta unidad, las cuales iré construyendo directamente en las carpetas de este repositorio:
