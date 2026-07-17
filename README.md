@@ -1,4 +1,4 @@
-# 🧮 Portafolio de Matemáticas Discretas
+#  Portafolio de Matemáticas Discretas
 
 ¡Bienvenido/a a mi portafolio digital! En este repositorio se encuentra recopilado todo el desarrollo, actividades prácticas y aprendizaje continuo de la asignatura de **Matemáticas Discretas**. 
 
@@ -6,7 +6,7 @@ Para reflejar mi evolución y el uso de diferentes herramientas tecnológicas, e
 
 ---
 
-## 📂 Unidad 1: Lógica Matemática (Google Drive)
+##  Unidad 1: Lógica Matemática (Google Drive)
 En esta unidad me enfoqué en desarrollar habilidades de razonamiento lógico para solucionar problemas complejos, comprendiendo la estructura formal del pensamiento matemático.
 
 * **Fases Desarrolladas:**
@@ -20,7 +20,7 @@ En esta unidad me enfoqué en desarrollar habilidades de razonamiento lógico pa
 
 ---
 
-## 📂 Unidad 2: [Nombre de tu Unidad 2] (Google Drive)
+##  Unidad 2: [Nombre de tu Unidad 2] (Google Drive)
 *Nota: Recuerda cambiar el título de arriba con el nombre real de tu Unidad 2.*
 
 En la segunda unidad se dio continuidad al programa mediante el estudio profundo de [menciona brevemente de qué trató, por ejemplo: Teoría de Conjuntos / Relaciones / Conteo].
@@ -35,7 +35,7 @@ En la segunda unidad se dio continuidad al programa mediante el estudio profundo
 
 ---
 
-## 💻 Unidad 3: [Nombre de tu Unidad 3] (Desarrollo en GitHub)
+##  Unidad 3: [Nombre de tu Unidad 3] (Desarrollo en GitHub)
 A partir de esta unidad, el portafolio se traslada completamente a GitHub para integrar conceptos matemáticos con el control de versiones y documentación en código.
 
 *(Próximamente se listarán aquí los temas, códigos y laboratorios de la Unidad 3 a medida que los vayamos estructurando).*
