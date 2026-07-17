@@ -1,6 +1,6 @@
 #  Fase 3: Árboles de Expansión Mínima (MST)
 
-Bienvenido/a a la tercera fase de la Unidad 3. En esta sección se aborda el problema de conectar todos los vértices de un grafo ponderado y conexo utilizando el menor costo total posible, garantizando la ausencia de ciclos.
+Bienvenido a la tercera fase de la Unidad 3. En esta sección se aborda el problema de conectar todos los vértices de un grafo ponderado y conexo utilizando el menor costo total posible, garantizando la ausencia de ciclos.
 
 ---
 
