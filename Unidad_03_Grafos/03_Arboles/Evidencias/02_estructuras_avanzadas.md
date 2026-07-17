@@ -48,7 +48,7 @@ Diseñado originalmente por Rudolf Bayer y Edward M. McCreight, el Árbol B es u
 *   **Ramificación Múltiple (Ancho sobre Alto):** A diferencia de las estructuras binarias, cada nodo en un Árbol B puede almacenar múltiples claves de ordenamiento de manera simultánea y poseer decenas, cientos o miles de nodos hijos. Este parámetro se define operacionalmente como el **"orden"** del árbol. Como resultado directo, se obtiene una topología sumamente ancha pero de muy baja altura.
 *   **Auto-balanceo Constante:** El algoritmo de inserción y eliminación garantiza de forma estricta que todas las hojas del árbol permanezcan exactamente en el mismo nivel de profundidad. Esto asegura que los tiempos de búsqueda para cualquier registro del sistema sean completamente uniformes y predecibles.
 
-### 📊 Comparativa Técnica: Árbol B versus Árbol B+
+###  Comparativa Técnica: Árbol B versus Árbol B+
 
 | Característica | Árbol B | Árbol B+ |
 | :--- | :--- | :--- |
