@@ -1,46 +1,33 @@
 # 🔹 Fase 1: Fundamentos de la Teoría de Grafos
 
-Bienvenido a la primera fase de la Unidad 3. En esta sección documento mi introducción práctica a las estructuras de datos no lineales. El objetivo principal de esta fase es comprender cómo modelar relaciones mediante nodos (vértices) y aristas, y cómo un sistema informático recorre estas estructuras de manera sistemática.
+Bienvenido/a a la primera fase de la Unidad 3. En esta sección documento el inicio de mi aprendizaje en estructuras no lineales, enfocándome en la abstracción de especificaciones de lenguaje natural y el modelado de redes reales mediante herramientas computacionales.
 
 ---
 
-## 🪐 1. Modelado y Representación Básica
+## 🪐 1. Modelado del Sistema Solar (Lenguaje Natural)
 
-Para iniciar, transformamos conceptos abstractos en representaciones visuales y matemáticas. 
+Para iniciar, transformamos conceptos abstractos en representaciones visuales y matemáticas. A partir de especificaciones de lenguaje natural, modelamos una red abstracta identificando formalmente sus vértices, aristas y grados. Para que un computador procese esta estructura, el diseño se acompaña de su respectiva **Matriz de Adyacencia**.
 
-### Grafo del Sistema Solar
-Este fue el modelado inicial donde los nodos representan los cuerpos celestes y las aristas dictan las conexiones o relaciones espaciales entre ellos. Para que el computador pueda procesar esta red, acompañamos el gráfico con su respectiva **Matriz de Adyacencia**.
-
-> **📷 Evidencia del Modelado:**
+> **📂 Archivo de Evidencia Interactiva:**
 > 
-> ![Diagrama del Grafo del Sistema Solar](Evidencias/sistema_solar.md)
+> 👉 [📂 Ver Modelado del Sistema Solar y Matriz](Evidencias/sistema_solar.md)
 
 ---
 
-## 🔍 2. Algoritmos de Recorrido y Búsqueda
+## 🌆 2. Modelado de Red Real en Software (Ciudad de Loja)
 
-Saber cómo transitar de un nodo a otro de manera óptima es vital en la computación. A continuación, presento las trazas manuales (el paso a paso) de los dos algoritmos de búsqueda elementales, comprobando la lógica de las estructuras de datos que los operan.
+Siguiendo la metodología práctica, aplicamos los conceptos a un entorno real. Se abstrajo el sistema de movilidad de la ciudad de Loja y se modeló mediante el software especializado *Graph Online / Gephi*. 
 
-### 🌊 Búsqueda en Anchura (BFS - Breadth-First Search)
-Este algoritmo explora el grafo de manera concéntrica, revisando todos los vecinos de un nodo antes de pasar al siguiente nivel.
-*   **Estructura de memoria utilizada:** Cola (FIFO - *First In, First Out*).
+Este proceso permitió analizar de manera digital las propiedades estructurales básicas de una red de transporte (conectividad, distribución de nodos críticos y jerarquía de corredores viales principales) utilizando un grafo ponderado y no dirigido.
 
-> **📷 Traza Manual BFS:**
+> **📂 Archivo de Evidencia Interactiva:**
 > 
-> ![Tabla paso a paso BFS](nombre_de_tu_imagen_bfs.jpg)
-
-### 🕳️ Búsqueda en Profundidad (DFS - Depth-First Search)
-Este método avanza agresivamente hacia el fondo de una trayectoria. Solo cuando llega a un "callejón sin salida" retrocede (*backtracking*) para explorar otras ramas.
-*   **Estructura de memoria utilizada:** Pila (LIFO - *Last In, First Out*).
-
-> **📷 Traza Manual DFS:**
-> 
-> ![Tabla paso a paso DFS](nombre_de_tu_imagen_dfs.jpg)
+> 👉 [📂 Ver Modelado de la Red de Loja en Software](Evidencias/red_loja.md)
 
 ---
 
 ### 💡 Conclusión de la Fase 1
-El desarrollo de estas trazas manuales fue fundamental para comprender que la elección entre una Pila o una Cola cambia por completo el comportamiento de un sistema de navegación o búsqueda de datos.
+El desarrollo de esta fase inicial me permitió comprender que la Teoría de Grafos no es solo matemática abstracta; es una herramienta de ingeniería potente capaz de simplificar sistemas complejos del mundo real (como el tráfico de nuestra urbe) en modelos lógicos listos para ser optimizados por una computadora.
 
 ---
 [⬅️ Volver al Menú Principal](../../README.md)
