@@ -1,4 +1,4 @@
-# 🌆 Evidencia: Modelado de la Red de Transporte de Loja
+#  Evidencia: Modelado de la Red de Transporte de Loja
 
 En esta práctica se realizó la abstracción y modelado de un sistema de movilidad real correspondiente a la ciudad de Loja, utilizando software especializado (*Graph Online / Gephi*).
 
