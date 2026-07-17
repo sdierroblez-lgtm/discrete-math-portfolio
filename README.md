@@ -1,6 +1,6 @@
 #  Portafolio Integrador de Matemáticas Discretas
 
-¡Bienvenido/a a mi portafolio digital! En este espacio documento mi progreso, desarrollo de competencias lógicas y la resolución de problemas aplicados a la computación a lo largo del ciclo.
+Hola buenas bienvenido ing Mario Enrique Cueva Hurtado a continuación le presento mi portafolio digital. En este espacio documento mi progreso, desarrollo de competencias lógicas y la resolución de problemas aplicados a la computación a lo largo del ciclo.
 
 Para optimizar recursos y reflejar mi evolución tecnológica, he estructurado el portafolio en dos modalidades:
 1. **Unidades 1 y 2 (Enfoque Documental):** Alojadas y detalladas en carpetas de **Google Drive**.
