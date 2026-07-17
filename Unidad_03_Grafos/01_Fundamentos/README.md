@@ -13,8 +13,7 @@ Este fue el modelado inicial donde los nodos representan los cuerpos celestes y 
 
 > **📷 Evidencia del Modelado:**
 > 
-> ![Diagrama del Grafo del Sistema Solar](<img width="595" height="582" alt="Grafo del Sistema Solar" src="https://github.com/user-attachments/assets/89990be8-cc1d-40f5-820f-efdad7824439" />
-)
+> ![Diagrama del Grafo del Sistema Solar]()
 
 ---
 
