@@ -31,7 +31,7 @@ En la segunda unidad se dio continuidad al programa mediante el estudio profundo
   * [Tema importante 3, ej: Aplicaciones prácticas]
 * **Actividades incluidas:** Guías de práctica experimental, problemas resueltos y material de aprendizaje autónomo.
 
-[▲ Acceder a la Carpeta de la Unidad 2 en Google Drive](AQUÍ_PEGA_EL_LINK_DE_TU_DRIVE_UNIDAD_2)
+[▲ Acceder a la Carpeta de la Unidad 2 en Google Drive](https://drive.google.com/drive/folders/1W2RJhetZm-z6HKdqT53L9Iz7Ijpu1dbA?usp=drive_link)
 
 ---
 
