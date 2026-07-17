@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 4. Resultados Obtenidos
+###  4. Resultados Obtenidos
 
 Se analizaron cuatro recorridos estratégicos desde el nodo origen (FU - Fusagasugá) hacia los destinos más alejados de la provincia, evaluando alternativas de conexión vial para asegurar la ruta mínima absoluta.
 
