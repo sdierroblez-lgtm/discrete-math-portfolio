@@ -37,23 +37,26 @@ Para optimizar recursos y reflejar mi evolución tecnológica, he estructurado e
 ## Unidad 3: Grafos y Árboles (Desarrollo en GitHub)
 *Aplicación de análisis combinatorio y estructuras de datos no lineales para resolver problemas reales de optimización de redes y almacenamiento masivo.*
 
-A continuación se listan las fases de esta unidad, las cuales se construyen directamente en este repositorio:
+A continuación se listan las 5 fases oficiales de esta unidad desarrolladas de forma nativa en este repositorio:
 
 ### 🔹 [Fase 1: Fundamentos de la Teoría de Grafos](./Unidad_03_Grafos/01_Fundamentos/)
-*   **Semana 13:** Introducción a grafos, representation (matrices e índices de adyacencia) y algoritmos de búsqueda iniciales (**BFS** y **DFS**).
-*   **Proyecto práctico:** Implementación base de representación de grafos.
+*   Introducción a grafos, representación mediante matrices e índices de adyacencia y algoritmos de búsqueda iniciales (**BFS** y **DFS**).
 
 ### 🔹 [Fase 2: Algoritmos de Búsqueda y Caminos Mínimos](./Unidad_03_Grafos/02_Algoritmos/)
-*   **Semana 14:** Estudio y simulación de algoritmos de optimización (Dijkstra, Kruskal o Prim) y modelado de redes con software especializado (como *Graph Online* o *Gephi*).
-*   **Proyecto práctico:** Código de resolución de caminos mínimos en grafos ponderados.
+*   Estudio y simulación de algoritmos de optimización de rutas mínimas en redes ponderadas.
 
 ### 🔹 [Fase 3: Estructuras Arbóreas Avanzadas y Aplicaciones Reales](./Unidad_03_Grafos/03_Arboles/)
-*   **Semanas 15-16:** Estudio analítico y práctico de Árboles Binarios de Búsqueda (BST), Colas de Prioridad (Heaps) en Sistemas Operativos, indexación física de motores de Bases de Datos (Árboles B/B+) y modelado lógico en Inteligencia Artificial (Random Forest).
-*   **Entregables:** Trazas manuales de recorridos de nodos, análisis de rendimiento en infraestructura de TI y lógica predictiva de Machine Learning.
+*   Estudio analítico de Árboles Binarios (BST), Heaps en Sistemas Operativos, indexación en Motores de Bases de Datos (Árboles B/B+) e Inteligencia Artificial (Random Forest).
+
+### 🔹 [Fase 4: Proyecto Integrador - Modelado y Optimización de Redes](./Unidad_03_Grafos/04_Proyecto_Integrador/)
+*   Informe técnico del modelado matemático y optimización vial mediante el algoritmo de Dijkstra para instituciones públicas en la Provincia Sur del Sumapaz.
+
+### 🔹 [Fase 5: Exposición, Defensa y Autoevaluación Final](./Unidad_03_Grafos/05_Autoevaluacion/)
+*   Reflexión final individual sobre el proceso de aprendizaje, competencias lógicas consolidadas y metas de ingeniería para el siguiente ciclo académico.
 
 ---
 
 ## 🛠️ Herramientas Utilizadas
 *   **Documentación teórica:** Google Drive & Google Docs.
-*   **Modelado de Redes:** Graph Online / Gephi.
+*   **Modelado de Redes:** Graph Online / Gephi / Python.
 *   **Control de versiones:** Git & GitHub.
