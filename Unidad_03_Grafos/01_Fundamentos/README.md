@@ -4,7 +4,7 @@ Bienvenido/a a la primera fase de la Unidad 3. En esta sección documento el ini
 
 ---
 
-## 🪐 1. Modelado del Sistema Solar (Lenguaje Natural)
+##  1. Modelado del Sistema Solar (Lenguaje Natural)
 
 Para iniciar, transformamos conceptos abstractos en representaciones visuales y matemáticas. A partir de especificaciones de lenguaje natural, modelamos una red abstracta identificando formalmente sus vértices, aristas y grados. Para que un computador procese esta estructura, el diseño se acompaña de su respectiva **Matriz de Adyacencia**.
 
@@ -14,13 +14,13 @@ Para iniciar, transformamos conceptos abstractos en representaciones visuales y 
 
 ---
 
-## 🌆 2. Modelado de Red Real en Software (Ciudad de Loja)
+##  2. Modelado de Red Real en Software (Ciudad de Loja)
 
 Siguiendo la metodología práctica, aplicamos los conceptos a un entorno real. Se abstrajo el sistema de movilidad de la ciudad de Loja y se modeló mediante el software especializado *Graph Online / Gephi*. 
 
 Este proceso permitió analizar de manera digital las propiedades estructurales básicas de una red de transporte (conectividad, distribución de nodos críticos y jerarquía de corredores viales principales) utilizando un grafo ponderado y no dirigido.
 
-> **📂 Archivo de Evidencia Interactiva:**
+> ** Archivo de Evidencia Interactiva:**
 > 
 > 👉 [📂 Ver Modelado de la Red de Loja en Software](Evidencias/red_loja.md)
 
