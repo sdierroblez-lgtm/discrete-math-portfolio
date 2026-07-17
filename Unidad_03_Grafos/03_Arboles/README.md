@@ -30,10 +30,10 @@ Transición matemática desde la teoría pura de grafos hacia el modelado predic
 
 Para facilitar la revisión del progreso práctico y teórico de esta fase, el contenido se ha dividido en los siguientes módulos interactivos:
 
-> **🛠️ Módulo Práctico de Diseño:**
+> ** Módulo Práctico de Diseño:**
 > 👉 [📂 Ver Práctica: Diseño y Recorrido de Árboles Binarios (BST)](Evidencias/01_practica_bst.md)
 
-> **🧠 Módulo de Investigación Avanzada:**
+> ** Módulo de Investigación Avanzada:**
 > 👉 [📂 Ver Análisis: Heaps, Bases de Datos e Inteligencia Artificial](Evidencias/02_estructuras_avanzadas.md)
 
 ---
